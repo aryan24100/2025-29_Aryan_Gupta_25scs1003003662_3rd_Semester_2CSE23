@@ -25,11 +25,9 @@ A visual record of my **Social Media Internship at AiPply**, covering strategy, 
 | Field | Details |
 |---|---|
 | **Name** | **Aryan Gupta** |
-| **Roll Number** | `25SCS1003003662` |
+| **Roll No** | **25SCS1003003662** |
 | **Institute** | **IILM University, Greater Noida, Uttar Pradesh** |
 | **Programme** | B.Tech — Computer Science & Engineering |
-| **Academic Batch** | 2025–2029 |
-| **Semester / Section** | 3rd Semester / 2CSE23 |
 | **Internship Company** | **AiPply** — Dinmay Jobsearch Tech LLP |
 | **Job Profile** | **Social Media Intern** |
 | **Internship Period** | **1 June 2026 – 1 August 2026** |

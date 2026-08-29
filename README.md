@@ -20,18 +20,19 @@ A visual record of my **Social Media Internship at AiPply**, covering strategy, 
 
 ---
 
-## 👤 Internship Overview
+## 👨‍🎓 Student Details
 
 | Field | Details |
 |---|---|
-| **Student** | **Aryan Gupta** |
+| **Name** | **Aryan Gupta** |
 | **Roll Number** | `25SCS1003003662` |
+| **Institute** | **IILM University, Greater Noida, Uttar Pradesh** |
 | **Programme** | B.Tech — Computer Science & Engineering |
-| **Batch** | 2025–2029 |
+| **Academic Batch** | 2025–2029 |
 | **Semester / Section** | 3rd Semester / 2CSE23 |
-| **Company** | **AiPply** — Dinmay Jobsearch Tech LLP |
-| **Role** | **Social Media Intern** |
-| **Duration** | **1 June 2026 – 1 August 2026** |
+| **Internship Company** | **AiPply** — Dinmay Jobsearch Tech LLP |
+| **Job Profile** | **Social Media Intern** |
+| **Internship Period** | **1 June 2026 – 1 August 2026** |
 
 ---
 
@@ -100,18 +101,6 @@ Focused on attention-first hooks, useful career content, visual clarity and cons
 ### LinkedIn — **37 Posts**
 
 Focused on professional, educational and career-oriented communication tailored to the LinkedIn audience.
-
-### Portfolio Preview
-
-> Add screenshots of selected AiPply posts, carousels and reels here once those assets are uploaded to the repository.
-
-```text
-┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
-│                  │  │                  │  │                  │
-│  Instagram #01   │  │  Carousel #02    │  │  LinkedIn #03    │
-│                  │  │                  │  │                  │
-└──────────────────┘  └──────────────────┘  └──────────────────┘
-```
 
 ---
 
@@ -273,9 +262,9 @@ AI was used as an **assistant**, while strategic direction, personalization and 
 
 ## 📜 Official Documentation
 
-The official offer letter confirms my appointment as **Social Media Intern at AiPply**, beginning **1 June 2026** for a **2-month** period. fileciteturn1file2L2-L8
+The official offer letter confirms my appointment as **Social Media Intern at AiPply**, beginning **1 June 2026** for a **2-month** period.
 
-The official completion certificate states that I worked with AiPply as a Social Media Intern and managed content for **LinkedIn and Instagram**, covering the cycle from brand voice and content generation through posting and audience engagement. fileciteturn1file1L1-L2
+The official completion certificate records my work with AiPply as a Social Media Intern and notes responsibility for LinkedIn and Instagram content, including the cycle from brand voice and content generation through posting and audience engagement.
 
 ---
 
@@ -298,6 +287,6 @@ This experience strengthened my understanding of how **strategy, creativity, AI-
 
 ### **Built with curiosity. Improved with feedback. Accelerated with AI. 🚀**
 
-**Aryan Gupta** · B.Tech CSE · 2025–29 · 3rd Semester · 2CSE23
+**Aryan Gupta** · B.Tech CSE · IILM University, Greater Noida · 2025–29
 
 </div>

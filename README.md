@@ -16,7 +16,7 @@
 
 A visual record of my **Social Media Internship at AiPply**, covering strategy, content creation, design, publishing and audience engagement.
 
-<img src="https://via.placeholder.com/900x220/0B1020/6C63FF?text=AiPply+%7C+Social+Media+Internship" alt="AiPply Internship Banner" width="90%" />
+
 
 </div>
 

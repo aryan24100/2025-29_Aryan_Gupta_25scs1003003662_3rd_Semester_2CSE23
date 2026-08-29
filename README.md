@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://aipply.io/favicon.ico" alt="AiPply Logo" width="90" />
+
 # 🚀 AiPply × Aryan Gupta
 ## Social Media Internship Portfolio
 
@@ -8,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-42_Posts-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#-content-output)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-37_Posts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#-linkedin-performance)
 [![AI-Assisted](https://img.shields.io/badge/Workflow-AI--Assisted-7C3AED?style=for-the-badge)](#-ai-assisted-content-workflow)
-[![Duration](https://img.shields.io/badge/Internship-2_Months-111827?style=for-the-badge)](#-internship-duration)
+[![Duration](https://img.shields.io/badge/Internship-8_Weeks-111827?style=for-the-badge)](#-student-details)
 
 > **Human strategy × AI-assisted creativity × consistent execution**
 
@@ -30,7 +32,7 @@ A visual record of my **Social Media Internship at AiPply**, covering strategy, 
 | **Programme** | B.Tech — Computer Science & Engineering |
 | **Internship Company** | **AiPply** — Dinmay Jobsearch Tech LLP |
 | **Job Profile** | **Social Media Intern** |
-| **Internship Duration** | **2 Months** |
+| **Internship Duration** | **8 Weeks (June 2026 – August 2026)** |
 
 ---
 

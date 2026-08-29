@@ -32,7 +32,7 @@ A visual record of my **Social Media Internship at AiPply**, covering strategy, 
 | **Programme** | B.Tech — Computer Science & Engineering |
 | **Internship Company** | **AiPply** — Dinmay Jobsearch Tech LLP |
 | **Job Profile** | **Social Media Intern** |
-| **Internship Duration** | **8 Weeks (June 2026 – August 2026)** |
+| **Internship Duration** | **8 Weeks (June 2026 - August 2026)** |
 
 ---
 

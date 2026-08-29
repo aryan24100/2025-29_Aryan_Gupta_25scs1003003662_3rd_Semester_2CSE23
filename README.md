@@ -3,7 +3,7 @@
 <img src="https://aipply.io/favicon.ico" alt="AiPply Logo" width="90" />
 
 # 🚀 AiPply × Aryan Gupta
-## Social Media Internship Portfolio
+## Social Media Manager Intern Portfolio
 
 ### **B.Tech Computer Science & Engineering · 3rd Semester · 2CSE23**
 

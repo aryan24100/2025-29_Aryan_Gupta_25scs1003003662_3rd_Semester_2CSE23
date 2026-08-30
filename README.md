@@ -3,20 +3,18 @@
 <img src="https://aipply.io/favicon.ico" alt="AiPply Logo" width="90" />
 
 # 🚀 AiPply × Aryan Gupta
-## Social Media Manager Intern Portfolio
+## Social Media Manager Internship
 
 ### **B.Tech Computer Science & Engineering · 3rd Semester · 2CSE23**
 
 [![Instagram](https://img.shields.io/badge/Instagram-42_Posts-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#-content-output)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-37_Posts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#-linkedin-performance)
 [![AI-Assisted](https://img.shields.io/badge/Workflow-AI--Assisted-7C3AED?style=for-the-badge)](#-ai-assisted-content-workflow)
-[![Duration](https://img.shields.io/badge/Internship-8_Weeks-111827?style=for-the-badge)](#-student-details)
+[![Duration](https://img.shields.io/badge/Internship-2_Months-111827?style=for-the-badge)](#-student-details)
 
 > **Human strategy × AI-assisted creativity × consistent execution**
 
-A visual record of my **Social Media Internship at AiPply**, covering strategy, content creation, design, publishing and audience engagement.
-
-
+A documented record of my **Social Media Manager Internship at AiPply (Dinmay Jobsearch Tech LLP)**, covering strategy, content planning, copywriting, visual design, publishing and audience engagement across Instagram and LinkedIn.
 
 </div>
 
@@ -24,55 +22,62 @@ A visual record of my **Social Media Internship at AiPply**, covering strategy, 
 
 ## 👨‍🎓 Student Details
 
-| Field | Details |
+| **Field** | **Details** |
 |---|---|
 | **Name** | **Aryan Gupta** |
-| **Roll No** | **25SCS1003003662** |
+| **Roll No.** | **25SCS1003003662** |
 | **Institute** | **IILM University, Greater Noida, Uttar Pradesh** |
 | **Programme** | B.Tech — Computer Science & Engineering |
-| **Internship Company** | **AiPply** — Dinmay Jobsearch Tech LLP |
-| **Job Profile** | **Social Media Intern** |
-| **Internship Duration** | **8 Weeks (June 2026 - August 2026)** |
+| **Batch** | **2025–2029** |
+| **Internship Company** | **AiPply — Dinmay Jobsearch Tech LLP** |
+| **Job Profile** | **Social Media Manager / Social Media Intern** |
+| **Internship Duration** | **2 Months (June 1, 2026 – August 1, 2026)** |
+| **Mentor / Supervisor** | **Tanmay Garg, Founder — AiPply** |
+
+The internship report identifies the internship as a two-month professional training engagement completed at AiPply from June 1, 2026 to August 1, 2026, under the mentorship of Founder Tanmay Garg. fileciteturn0file0L71-L85
 
 ---
 
-## 🎯 What I Worked On
+## 📌 About AiPply
 
-During the internship, I contributed to AiPply's **Instagram and LinkedIn presence** across the full content cycle:
+**AiPply (Dinmay Jobsearch Tech LLP)** is an early-stage, AI-powered career technology platform focused on making the job-search process easier for modern job seekers. Its mission is to reduce job-application fatigue through job application assistance, resume improvement and personalized career guidance. The organization also conducts initiatives such as live resume optimization workshops, cold-emailing sessions and student guidance webinars. fileciteturn0file0L86-L96
 
-```text
-Audience Problems
-      ↓
-Content Ideation
-      ↓
-Founder + Team Discussion
-      ↓
-AI-Assisted Research & Brainstorming
-      ↓
-Personalized Content Development
-      ↓
-Design / Visual Execution
-      ↓
-Review & Refinement
-      ↓
-Publishing
-      ↓
-Audience Engagement
-```
+The internship presentation describes AiPply as an AI-powered job application and career platform serving college engineering students, fresh graduates, placement aspirants and early-career professionals across India. fileciteturn0file1L35-L47
 
-### Core responsibilities
+---
+
+## 🎯 Internship Objectives
+
+The internship was structured around five major objectives:
+
+1. **Build Brand Awareness & Trust** — Position AiPply as a trusted source of career information through useful, problem-solving content.
+2. **Create Content for Multiple Platforms** — Plan, script, design and publish content systematically across Instagram and LinkedIn.
+3. **Use AI Tools for Content Creation** — Use ChatGPT, Claude Pro, Gemini Pro and Nano Banana for research, ideation, writing and visual creation while retaining human review.
+4. **Lead Flagship Campaign Execution** — Contribute to the **#StopApplyingStartGettingShortlisted** TrustHero campaign.
+5. **Review Content Performance** — Observe organic output and channel-response metrics to improve hooks, post structures and visual layouts. fileciteturn0file0L112-L129
+
+---
+
+## 🛠️ Core Role & Responsibilities
+
+During the internship, I worked across the full social-media content cycle and collaborated directly with the Founder and internal team.
+
+### Key responsibilities
 
 - 📱 Instagram content planning and execution
 - 💼 LinkedIn content planning and execution
-- ✍️ Content writing, hooks and ideation
-- 🎬 Reel / video concepts
-- 📚 Carousel content
-- 🖼️ Static creatives
-- 🤖 AI-assisted research and content generation
-- 🧠 Prompt refinement and creative experimentation
-- 🎨 Visual design
+- 🗓️ Monthly and weekly content calendar planning
+- ✍️ Hooks, copywriting and carousel scripting
+- 🎬 Reel / short-video concepts
+- 📚 Educational carousel development
+- 🖼️ Static and event promotional creatives
+- 🤖 AI-assisted research, prompting and ideation
+- 🎨 Canva-based visual design
 - 📣 Publishing and audience engagement
-- 🧩 Campaign and content strategy
+- 🧩 Campaign planning and execution
+- 🤝 Founder/team review and refinement
+
+The presentation specifically highlights founder collaboration, content planning, copywriting, AI workflows and minimalist brutalist visual design as core responsibilities. fileciteturn0file1L50-L72
 
 ---
 
@@ -82,11 +87,13 @@ Audience Engagement
 
 | **42** | **37** | **79** | **21%** | **+7.5%** |
 |:---:|:---:|:---:|:---:|:---:|
-| Instagram Posts | LinkedIn Posts | Total Posts | LinkedIn Engagement Rate* | LinkedIn Growth* |
+| Instagram Posts | LinkedIn Posts | Total Posts | Peak LinkedIn Engagement | LinkedIn Growth |
 
 </div>
 
-> **​*Performance metrics supplied for the internship period. No additional analytics are claimed.**
+The internship report records **42 Instagram posts, 37 LinkedIn posts, 79 total content deliverables, +7.5% LinkedIn growth and peak LinkedIn engagement of up to 21%** during the internship period. fileciteturn0file0L193-L210
+
+> **Note:** The 21% figure is presented in the report as peak LinkedIn engagement, rather than a guaranteed average engagement rate.
 
 ---
 
@@ -94,13 +101,15 @@ Audience Engagement
 
 ### Instagram — **42 Posts**
 
-`🎬 Reels / Videos` · `📚 Carousels` · `🖼️ Static Posts`
+`🎬 Reels / Short Videos` · `📚 Educational Carousels` · `🖼️ Static Brutalist Graphics`
 
-Focused on attention-first hooks, useful career content, visual clarity and consistent brand communication.
+Instagram content focused on high-hook scripts around resume mistakes, placement anxiety and quick career hacks, alongside swipeable educational guides and text-first job-market graphics. fileciteturn0file1L150-L163
 
 ### LinkedIn — **37 Posts**
 
-Focused on professional, educational and career-oriented communication tailored to the LinkedIn audience.
+`💼 Long-Form Posts` · `📣 Event & Brand Announcements` · `🎓 Career / Placement Content`
+
+LinkedIn content included structured posts for recruiters and engineering students, event promotions, recruiter-mindset breakdowns, placement frameworks, the Live Resume-Making Workshop with Tanmay Garg and Summer Interns 2026 onboarding content. fileciteturn0file1L166-L176
 
 ---
 
@@ -108,15 +117,17 @@ Focused on professional, educational and career-oriented communication tailored 
 
 <div align="center">
 
-# **21%**
-### Engagement rate — reached up to this level during the internship
+# **Up to 21%**
+### Peak engagement rate during the internship
 
 # **+7.5%**
-### Growth recorded during the internship period
+### Channel growth during the internship period
 
 </div>
 
-The objective was to create content that was **relevant, useful and audience-focused**, rather than simply increasing posting frequency.
+The report records the highest LinkedIn engagement at **up to 21%**, with **+7.5% channel growth** during the internship period. fileciteturn0file0L201-L210
+
+The broader objective was to create content that was useful and audience-focused rather than simply increasing posting frequency.
 
 ---
 
@@ -124,37 +135,43 @@ The objective was to create content that was **relevant, useful and audience-foc
 
 ### Core Philosophy
 
-> **Solve the audience's problem first → build trust → build community → connect the product to the solution.**
+> **Problem first → build trust → build community → connect the product to the solution.**
 
-### Five Content Pillars
+The strategic objective was to position AiPply as a **trusted career advisor rather than a generic advertiser**, using problem-first storytelling, minimalist brutalist aesthetics and organic community engagement. fileciteturn0file1L75-L84
 
-| Pillar | Purpose |
+### Five Core Content Pillars
+
+| **Pillar** | **Purpose** |
 |---|---|
-| 🎓 **Placement Season** | Placement, recruitment and application-related problems |
-| 📘 **Career Education** | Practical career guidance and job-search insights |
-| 🤖 **AI Tips** | Useful AI ideas for students and career development |
-| 🚀 **Product** | Product storytelling connected to real audience needs |
-| 🤝 **Community** | Trust, conversations and student-focused content |
+| 🎓 **Placement Season** | Campus hiring trends, ATS shortlisting realities, recruiter expectations and placement survival guides |
+| 📘 **Career Education** | Cold emailing, LinkedIn optimization, interview preparation and application tactics |
+| 🤖 **AI Productivity Tips** | Useful AI prompts, automation ideas and tools for job seekers |
+| 🚀 **Product Integration** | Connect AiPply features to previously addressed placement problems |
+| 🤝 **Community & Culture** | Internship announcements, founder workshops, student achievements and interactive content |
+
+These five pillars are directly reflected in the internship presentation. fileciteturn0file1L87-L105
 
 ---
 
-## 🏆 TrustHero Campaign
+## 🏆 Featured Campaign
 
-# **#StopApplyingStartGettingShortlisted**
+# **TRUST HERO CAMPAIGN**
+## **#StopApplyingStartGettingShortlisted**
 
-A major campaign direction focused on the problems students and job seekers face during the application process.
+A flagship content direction focused on the practical problems students and job seekers face during the application and placement process.
 
-### Key themes
+### Four-Week Campaign Structure
 
-**01** Stop applying blindly  
-**02** Improve your resume  
-**03** Make applications more intentional  
-**04** Understand recruiter expectations  
-**05** Become interview-ready  
-**06** Build a personal brand  
-**07** Focus on long-term career growth
+| **Week** | **Focus** | **Themes** |
+|---|---|---|
+| **Week 1** | Application Pitfalls | Stop blind applications, fix resume/form mistakes, understand recruiter filters |
+| **Week 2** | Strategic Positioning | Targeted application hooks and profile optimization |
+| **Week 3** | Interview Readiness | Reduce interview friction and demonstrate role-readiness |
+| **Week 4** | Personal Growth | Personal branding and long-term career momentum on LinkedIn |
 
-### Campaign philosophy
+The campaign structure is documented in the presentation and the internship report, including application pitfalls, profile optimization, interview readiness and personal branding. fileciteturn0file1L179-L201
+
+### Campaign Philosophy
 
 **Education first. Trust second. Product third.**
 
@@ -164,7 +181,7 @@ A major campaign direction focused on the problems students and job seekers face
 
 ### **Human Strategy × AI-Assisted Creativity**
 
-| Human contribution | AI assistance |
+| **Human contribution** | **AI assistance** |
 |---|---|
 | Audience understanding | Research assistance |
 | Brand direction | Ideation |
@@ -173,74 +190,100 @@ A major campaign direction focused on the problems students and job seekers face
 | Final decisions | Visual experimentation |
 | Founder/team alignment | Faster iteration |
 
-### Tools used
+### Tools & Technologies
 
-- 🎨 **Canva** — social media design and visual execution
-- 💬 **ChatGPT** — ideation, hooks, copywriting and refinement
-- 🧠 **Claude Pro** — strategic thinking and content development
-- ✨ **Gemini Pro** — research assistance and ideation
-- 🖼️ **Nano Banana** — AI-assisted visual generation and experimentation
+- 🎨 **Canva** — social-media design, carousels, event banners and brutalist layouts
+- 💬 **ChatGPT** — hooks, post copy and text refinement
+- 🧠 **Claude Pro** — strategic brainstorming, LinkedIn planning and carousel scripting
+- ✨ **Gemini Pro** — placement/topic research and content planning
+- 🖼️ **Nano Banana** — AI-assisted visual generation and asset ideation
+
+The formal report lists Canva, ChatGPT, Claude Pro, Gemini Pro and Nano Banana as the principal tools used during the internship. fileciteturn0file0L141-L160
 
 ---
 
-## 🔄 Content Planning Model
-
-Content planning was developed through a collaborative process involving:
+## 🔄 Content Creation Lifecycle
 
 ```text
-         ┌─────────────────┐
-         │  AiPply Founder │
-         └────────┬────────┘
-                  │
-         ┌────────▼────────┐
-         │  AiPply Team    │
-         └────────┬────────┘
-                  │
-         ┌────────▼────────┐
-         │  Aryan Gupta    │
-         └────────┬────────┘
-                  │
-         ┌────────▼────────┐
-         │ AI-Assisted     │
-         │ Ideation &      │
-         │ Refinement      │
-         └────────┬────────┘
-                  │
-         ┌────────▼────────┐
-         │ Final Content   │
-         └─────────────────┘
+Research & Brainstorming
+          ↓
+AI Prompting & Scripting
+          ↓
+Design & Review
+          ↓
+Publish & Engage
 ```
 
-AI was used as an **assistant**, while strategic direction, personalization and final decisions remained human-led.
+The workflow remained **human-in-the-loop**: AI accelerated research and copy generation, while human editorial judgment, creative direction and review with Founder Tanmay Garg ensured brand alignment. fileciteturn0file1L108-L128
+
+The detailed report expands this into a 10-step lifecycle:
+
+```text
+Audience Problem
+      ↓
+Content Ideation
+      ↓
+Team Discussion
+      ↓
+AI-Assisted Research
+      ↓
+Personalization
+      ↓
+Content Drafting
+      ↓
+Visual Design (Canva)
+      ↓
+Review & Refinement
+      ↓
+Publishing
+      ↓
+Audience Engagement
+```
+
+fileciteturn0file0L181-L190
 
 ---
 
-## 💡 Challenges → Approach
+## 🎨 Visual Brand Execution
 
-| Challenge | Approach |
-|---|---|
-| Content becoming too promotional | Started from real audience problems and useful insights |
-| Two platforms with different audiences | Adapted formats and messaging for Instagram vs LinkedIn |
-| Personalization at scale | Combined human judgment with AI-assisted ideation and drafting |
-| Maintaining brand consistency | Followed a defined creative direction and reviewed content with the team |
+The visual direction focused on:
+
+- **Brand guideline alignment** — AiPply blue-gold palette and official logo usage
+- **Minimalist typography** — high-contrast, uncluttered layouts for mobile feeds
+- **Rapid iteration** — Canva templates combined with AI visual tools for personalized assets
+
+This visual approach is shown in the presentation's **Visual Brand Execution** section. fileciteturn0file1L204-L213
+
+---
+
+## 💡 Challenges → Solutions
+
+| **Challenge** | **Strategic Approach** | **Key Learning** |
+|---|---|---|
+| Avoiding overly promotional content | Used a problem-first narrative before introducing the product | Audience trust precedes product conversion |
+| Maintaining posting frequency across two platforms | Built five content pillars and weekly calendars | Systematic planning reduces posting gaps |
+| Efficient personalized content creation | Combined human creative judgment with AI-assisted workflows | AI amplifies production speed when guided by strategy |
+| Maintaining brand-voice consistency | Iterative review with Founder and team | Regular feedback strengthens brand integrity |
+
+These challenges, approaches and learnings are documented in the presentation's **Challenges & Solutions** section. fileciteturn0file1L218-L237
 
 ---
 
 ## 📚 Key Learnings
 
-> **The biggest learning:** effective social media is not just about posting more — it is about understanding people better.
+> **The biggest learning: effective social media is not just about posting more — it is about understanding people better.**
 
 - 🎯 Strategy begins with **audience pain points**
 - ✍️ Hooks and copy shape attention and clarity
 - 📱 Instagram and LinkedIn require **different communication styles**
 - 🎨 Design is part of the message, not just decoration
-- 🤖 AI works best when paired with **human judgment and personalization**
+- 🤖 AI is most effective when paired with **human judgment and personalization**
 - 🤝 Founder/team feedback strengthens creative decisions
-- 🔄 Content is an **end-to-end workflow**, from idea to engagement
+- 🔄 Social media execution is an **end-to-end process**, from idea to engagement
 
 ---
 
-## 🗂️ Repository Structure
+## 📁 Repository Contents
 
 ```text
 📦 2025-29_Aryan_Gupta_25scs1003003662_3rd_Semester_2CSE23
@@ -262,9 +305,9 @@ AI was used as an **assistant**, while strategic direction, personalization and 
 
 ## 📜 Official Documentation
 
-The official offer letter confirms my appointment as **Social Media Intern at AiPply**, beginning **1 June 2026** for a **2-month** period.
+The internship documentation confirms the Social Media Intern engagement with AiPply, beginning **June 1, 2026**, and ending **August 1, 2026**. The report states that the offer letter and completion certificate are attached in Chapter 3, together with communication proof from Founder Tanmay Garg. fileciteturn0file0L211-L217
 
-The official completion certificate records my work with AiPply as a Social Media Intern and notes responsibility for LinkedIn and Instagram content, including the cycle from brand voice and content generation through posting and audience engagement.
+The presentation also contains a dedicated **Certification** slide showing successful completion of the AiPply Social Media Manager Internship. fileciteturn0file1L240-L244
 
 ---
 
@@ -277,9 +320,9 @@ The official completion certificate records my work with AiPply as a Social Medi
 
 ## 🙏 Acknowledgement
 
-A sincere thank you to **Tanmay Garg** and the **AiPply team** for the opportunity, feedback and collaborative environment throughout the internship.
+A sincere thank you to **Mr. Tanmay Garg, Founder of AiPply**, and the **AiPply team** for the opportunity, strategic guidance, constructive feedback and collaborative environment throughout the internship.
 
-This experience strengthened my understanding of how **strategy, creativity, AI-assisted workflows and consistent execution** come together in real-world social media work.
+The internship report specifically acknowledges Tanmay Garg's mentorship and the academic support of IILM University's School of Computer Science and Engineering. fileciteturn0file0L30-L43
 
 ---
 

@@ -34,7 +34,7 @@ A concise record of my **Social Media Internship at AiPply**, covering content s
 
 The internship focused on building AiPply's **Instagram and LinkedIn presence** through audience-focused content, social media strategy, visual design and AI-assisted content workflows.
 
-The work covered the complete content cycle — from **research and ideation to design, publishing and engagement** — with a focus on career and placement-related problems faced by students. fileciteturn0file0L71-L85
+The work covered the complete content cycle — from **research and ideation to design, publishing and engagement** — with a focus on career and placement-related problems faced by students.
 
 ---
 
@@ -60,7 +60,7 @@ The work covered the complete content cycle — from **research and ideation to 
 
 </div>
 
-The internship report records **79 total content deliverables**, **+7.5% LinkedIn growth**, and peak LinkedIn engagement of **up to 21%**. fileciteturn0file0L193-L210
+The internship report records **79 total content deliverables**, **+7.5% LinkedIn growth**, and peak LinkedIn engagement of **up to 21%**.
 
 ---
 
@@ -72,7 +72,7 @@ The internship report records **79 total content deliverables**, **+7.5% LinkedI
 
 `🎓 Placement Season` · `📘 Career Education` · `🤖 AI Productivity` · `🚀 Product` · `🤝 Community & Culture`
 
-The strategy emphasized useful, problem-solving content instead of generic promotional messaging. fileciteturn0file1L75-L105
+The strategy emphasized useful, problem-solving content instead of generic promotional messaging.
 
 ---
 
@@ -104,7 +104,7 @@ Design & Review
 Publishing & Engagement
 ```
 
-AI accelerated research, ideation and content production while strategic direction, personalization and final decisions remained human-led. fileciteturn0file1L108-L128
+AI accelerated research, ideation and content production while strategic direction, personalization and final decisions remained human-led.
 
 ---
 
@@ -121,21 +121,12 @@ AI accelerated research, ideation and content production while strategic directi
 
 ## 📁 Repository Contents
 
-```text
-📦 2025-29_Aryan_Gupta_25scs1003003662_3rd_Semester_2CSE23
-│
-├── 📄 README.md
-├── 📊 Internship_Presentation.pptx
-├── 📑 Internship_Report.pdf
-├── 🏆 Aryan_Gupta_Certificate.pdf
-├── 📜 Aryan_Gupta_Offer_Letter.pdf
-│
-└── 🎨 assets/
-    ├── AiPply_logo.png
-    ├── instagram/
-    ├── linkedin/
-    └── screenshots/
-```
+- 📄 [README](./README.md)
+- 📊 [Internship Presentation](./PPT_Social_Media_Manager_Internship_Aryan_Gupta.pptx)
+- 📑 [Internship Report](./Internship_Report_Aryan_Gupta.pdf)
+- 🏆 [Internship Certificate](./Internship_Certificate_Aryan_Gupta.pdf)
+
+> **Note:** GitHub may not preview PDFs inline on the file page. These links open/download the original PDF directly.
 
 ---
 

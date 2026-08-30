@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://aipply.io/favicon.ico" alt="AiPply Logo" width="80" />
-
 # 🚀 AiPply × Aryan Gupta
 
 ## Social Media Internship
@@ -26,6 +24,7 @@ A concise record of my **Social Media Internship at AiPply**, covering content s
 | **Roll No.** | **25SCS1003003662** |
 | **Institute** | **IILM University, Greater Noida, Uttar Pradesh** |
 | **Programme** | B.Tech — Computer Science & Engineering |
+| **Internship Domain** | **Social Media Management & Content Strategy** |
 | **Company** | **AiPply — Dinmay Jobsearch Tech LLP** |
 | **Duration** | **2 Months (June 1 – August 1, 2026)** |
 

@@ -122,7 +122,7 @@ AI accelerated research, ideation and content production while strategic directi
 ## 📁 Repository Contents
 
 - 📄 [README](./README.md)
-- 📊 [Internship Presentation](./PPT_Social_Media_Manager_Internship_Aryan_Gupta.pptx)
+- 📊 [Internship Presentation](./PPT_Social_Media_Manager_Internship_Aryan_Gupta.pdf)
 - 📑 [Internship Report](./Internship_Report_Aryan_Gupta.pdf)
 - 🏆 [Internship Certificate](./Internship_Certificate_Aryan_Gupta.pdf)
 

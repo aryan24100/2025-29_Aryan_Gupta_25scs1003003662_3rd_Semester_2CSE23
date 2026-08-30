@@ -24,7 +24,7 @@ A concise record of my **Social Media Internship at AiPply**, covering content s
 | **Roll No.** | **25SCS1003003662** |
 | **Institute** | **IILM University, Greater Noida, Uttar Pradesh** |
 | **Programme** | B.Tech — Computer Science & Engineering |
-| **Internship Domain** | **Social Media Management & Content Strategy** |
+| **Internship Domain** | **Social Media Management** |
 | **Company** | **AiPply — Dinmay Jobsearch Tech LLP** |
 | **Duration** | **2 Months (June 1 – August 1, 2026)** |
 
